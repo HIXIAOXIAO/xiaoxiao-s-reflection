@@ -1,11 +1,11 @@
 # Individual Ratings
 
-| Group member name |Xiaoxiao Fu|
-| ------ | ------ |
-| Preparation rating | 4 |
-| Participation & communication | 4 |
-| Helps group excel rating | 4 |
-| Team player (cooperation) rating| 4 |
+| Group member name |Weijia Lyu|Renghe Tang|Henry Luo|
+| ------ | ------ | ------ | ------ | 
+| Preparation rating | 4 | 4 | 4 |
+| Participation & communication | 4 | 4 | 4 |
+| Helps group excel rating | 4 | 4 | 4 |
+| Team player (cooperation) rating| 4 | 4 | 4 |
 
 
 # Contribution
